@@ -1,0 +1,23 @@
+{
+    "name": "Kyoani",
+    "author": "t1mmuz",
+    "description": "A skin theme for Kyoto Animation fans",
+
+    "discord_support": {
+        "inviteCodeExcludingLink": "NcNMP6r2Cw"
+    },
+    "github": {
+        "owner": "summitsoul",
+        "repo_name": "SteamSkinKyoani"
+    },
+    "header_image": "https://i.imgur.com/image_here.png",
+    "splash_image": "https://i.imgur.com/image_here.png",
+    "tags": [
+        "animation",
+        "kyoto animation"
+    ],
+    "version": "0.1.0",
+
+    "Steam-WebKit": "webkit.css",
+    "UseDefaultPatches": true
+}
